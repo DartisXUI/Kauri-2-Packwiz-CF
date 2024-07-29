@@ -1,0 +1,13 @@
+name = "Dartis-Craft - Karui-2-packwiz"
+author = "Dartis XUI"
+version = "2.5.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "983f45643094830a62dadd6293cbae437809abe09f87371b4928da500c2978c5"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
