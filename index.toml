@@ -2856,8 +2856,3 @@ hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
 [[files]]
 file = "scripts/recipes.zs"
 hash = "d9f5685a54d559d87a3a336831509a1b1ee898df5923da71340d91c1e63f8c53"
-
-[[files]]
-file = "twilightforest.pw.toml"
-hash = "fcce284b150ffa2e98e94d177a492baf484d8fdc0a8e3f9fcc2ba857f1a54523"
-metafile = true
