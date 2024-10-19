@@ -2671,7 +2671,7 @@ metafile = true
 
 [[files]]
 file = "mods/recurrent-complex.pw.toml"
-hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
+hash = "91f2d59223235e8432344bc2ab7df5d4637cd6b6b22666dcc58f0a3ef7e48d5d"
 metafile = true
 
 [[files]]
